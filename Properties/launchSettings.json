@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GatewaySelector": {
+      "commandName": "Project",
+      "commandLineArgs": "-w"
+    }
+  }
+}
